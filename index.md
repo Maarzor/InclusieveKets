@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Maarten De Pauw
+Ik volg deze cursus omdat ik gefascineerd ben door technologie
 
-You can use the [editor on GitHub](https://github.com/Maarzor/project-Test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ik vind het ook enorm boeiend om het aan andere mensen aan te leren.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![aquila](https://github.com/Maarzor/MaartenDePauw/blob/master/aquila.png)
 
-### Markdown
+Bij de **cursus** heb ik vandaag geleerd om een afbeelding en ~~testk~~ tekst te plaatsen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ik heb al verscheidene keren een technologiekamp gegeven voor [ideekids](http://ideekids.be)
+Op deze kampen heb ik Cristina leren kennen en zo verder 
 
-```markdown
-Syntax highlighted code block
+Deze zomer geef ik een kamp met [freetime](http://freetime.be) rond Technologie
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maarzor/project-Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
